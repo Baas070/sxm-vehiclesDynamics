@@ -6,6 +6,7 @@ description 'Combined speed limiter, horsepower scaler, offroad logic, and turbo
 version '1.0.0'
 
 client_scripts {
-    'client/config.lua',
-    'client/client.lua'
+    'config.lua',
+    'client.lua'
 }
+
